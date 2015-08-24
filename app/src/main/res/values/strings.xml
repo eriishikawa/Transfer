@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">transfer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text1">出発</string>
+    <string name="text2">到着</string>
+</resources>
